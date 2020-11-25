@@ -1,0 +1,8 @@
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+.idea/**/workspace.xml
+
+protected/runtime
+protected/config
+assets

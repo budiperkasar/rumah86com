@@ -5,7 +5,7 @@
     'db' => 
     array (
       'class' => 'CDbConnection',
-      'connectionString' => 'mysql:host=192.168.100.4;dbname=local_revamp_pembantu;port=3306',
+      'connectionString' => 'mysql:host=192.168.100.7;dbname=dev_rumah86;port=3306',
       'username' => 'root',
       'password' => 'bogorbasah88',
       'emulatePrepare' => true,

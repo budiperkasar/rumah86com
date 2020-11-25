@@ -3,6 +3,3 @@
 .idea
 .idea/**/workspace.xml
 
-protected/runtime
-protected/config
-assets
